@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "my-project-formiai",
+  "private_key_id": "a259e5b4300bbc27dc2bb692a8d6766d0b3f53a3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDBxLwpaPArWP9D\n7XueCuUGBYCXpv9RYZymaBK/Fiy1etFB5b+MEucCpI93o8xL6dpA4Bm/xRqpwjUx\nS+3poHqX38bcwXIPUnsSdsHSLCqLcwm8wnUJZH946nnsgvCN7wMR3NlkMqurpIXr\ncCLrNN31qzV5HSoFWjRhxZ13mavQVNUuhc8Z7H4004Q+bdiMzQrGLoxAxxGETsAv\nwk+1QPiJ/zohUX+PcinRqnbF+6MCf77qVRtKu/APqKF1Tj+do0huXy6sHfFcWwna\nO826rnBbSAqL/X+nQn1JjxDLyEo6mCr7Vwo8LDPiF+hWuM1ZjrPFPxilQfYeS5Ot\n8F1nPTiDAgMBAAECgf9TQjWXlX+dIKCOj3yObB/8dmDKyPbsAQVOe2mSsfSEBkHk\nDtQ/W9/nQs5imf8un00okyJ9RDQwvUId7IJN4KbMm1rXgEeCTe6UAHNH27JsOQH2\nGZgwcP5U9mttNNYoJosrIbpHU35wQkFI6OYYKp808FwJrn5fzmKzoDYJLf6lhQ4q\nK+Zt9G/HlNFyl+/rsi4K7km/GgSuUKOt/AP+LJw4nFdV84917TDhbwWCpx+Ot99D\nLjij7CvWAE3Krg65hpSlUsWjTkLJcnRxmcNivqmKM9RsSCfrYv7XZqx4V6YLlq3W\ne/x1rp7Lcmu/+20P7KcDPUiQfqgvQgxYF6GIVRECgYEA76/gVSKxGp7KO2bkBpSJ\njqUTSCnDRL3fjYlvZQPpXBIJzeCFpMS2Lo3zEMwxtO+OKsKqNrXNj3hFWqdwGv9r\n78jkDmLuLs8Aew+z9tAmOQA0BaMrf63vbMlJVWX8zi56tGH8d+aWZj3IRo5TwJFt\nVXBGyIHKdpo6lMDTUnyeS9UCgYEAzvTPN2dHVj2O4AwbivR2c22mIe6LVENU2jnR\nTH2zTGvO4L3JxOMze7agWng4Khf3j4ueIYH6c8WIMANuyOmorAdzLAMv/tiBjwuQ\nqrrN7Dh74t9AXJikt4iomx2cqbDMpnq4EnbwYXpDfmpdqJsYuT3y+CijM3ZM9osK\ne3+m1vcCgYEAnVq4iwvge1p95+uPjeZcPGKROxH32RxSNGhi0k10GXbaKufYtShT\ndlLInWGAzIlsqxPrjUljr2nFFlPQXFkNcnlPh0ZZmi9Z4HCZtFJIlalVfdH2j7cP\n9TpcQ41WH8IR2nRtvAWM/YhYAEIWJ9kRj0LLpXzX/28XQGsrEP8xKRUCgYBuxwvE\nFDxTJVA9DT4Q+xoMXzz2HMHnsMLSrPAjiYVX+r0Z/3zpLtR3/CGJS6CEp5+T7qAO\nP4zYO3vSd4Ptd2UZ8ELt5Cbkuu9eqkodmTBwqStnHSlOZ0aEF1po7UjWbBSfaEDv\nYUr6Yn+OQ1Eu1xY80bQksVvqSACaV4Kc6I9dsQKBgQDTKAibA66ux/rr2fMflmeC\n14/35IcEIz7VpCXPkXj3ss/cv4ZCf/iGWtkmbEyqk88xR+tSnvf1ivFxrNUwToEt\nKTzsDc8wNY8g801tekvJjiAOz7tA4b5iwCX9osSqXwXeFdx5SQb3wsRRIZZ/aj03\n9fxem56OGLzlZn3pHZ/UEw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hotel-customer@my-project-formiai.iam.gserviceaccount.com",
+  "client_id": "115179947439378887890",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hotel-customer%40my-project-formiai.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
