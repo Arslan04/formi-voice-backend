@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pandas
+numpy
+gspread
+google-auth
+tiktoken
+requests
+python-dotenv
